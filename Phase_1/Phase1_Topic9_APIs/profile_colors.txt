@@ -1,0 +1,16 @@
+ContinuationPrompt = \e[38;2;222;245;177m
+Emphasis = \e[38;2;222;245;177m
+Error = \e[38;2;52;72;37;48;2;67;91;98m
+Selection = \e[38;2;109;82;70m
+Default = \e[38;2;203;254;167m
+Command = \e[38;2;139;186;199m
+Keyword = \e[38;2;79;134;113;48;2;18;30;34m
+String = \e[38;2;152;56;82m
+Operator = \e[38;2;222;245;177m
+Variable = \e[38;2;112;222;180m
+Comment = \e[38;2;47;55;31;48;2;79;134;113m
+Parameter = \e[38;2;53;103;84m
+Type = \e[38;2;67;91;98m
+Number = \e[38;2;161;119;100m
+Member = \e[38;2;203;254;167m
+InlinePrediction = \e[38;2;198;83;114m
